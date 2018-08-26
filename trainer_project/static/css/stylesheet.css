@@ -1,0 +1,15 @@
+
+
+li{
+    list-style: none;
+}
+
+#left-sidebar{
+    background-color:#eee;
+    height: 700px;
+}
+
+#right-sidebar{
+    background-color:#eee;
+    height: 700px;
+}
